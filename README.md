@@ -30,6 +30,7 @@ GitHub: https://github.com/sainadh-coder
 | [0004-median-of-two-sorted-arrays](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0018-4sum](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0027-remove-element/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -84,6 +85,7 @@ GitHub: https://github.com/sainadh-coder
 | ------- | ------- |
 | [0018-4sum](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0027-remove-element/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
