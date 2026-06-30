@@ -45,4 +45,5 @@ GitHub: https://github.com/sainadh-coder
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0175-combine-two-tables/) | Easy |
 | [0181-employees-earning-more-than-their-managers](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
+| [0620-not-boring-movies](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0620-not-boring-movies/) | Easy |
 <!---LeetCode Topics End-->
