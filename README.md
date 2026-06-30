@@ -20,3 +20,15 @@ This repository contains my solutions to LeetCode problems solved as part of my 
 ## Profile
 LeetCode: https://leetcode.com/u/Sainadh_143/
 GitHub: https://github.com/sainadh-coder
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
+<!---LeetCode Topics End-->
