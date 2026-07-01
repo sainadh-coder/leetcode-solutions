@@ -35,6 +35,7 @@ GitHub: https://github.com/sainadh-coder
 | [0033-search-in-rotated-sorted-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0041-first-missing-positive](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -42,6 +43,7 @@ GitHub: https://github.com/sainadh-coder
 | [0001-two-sum](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0012-integer-to-roman](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
+| [0041-first-missing-positive](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## String
 | Problem Name | Difficulty |
