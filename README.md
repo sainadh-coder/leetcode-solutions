@@ -37,6 +37,7 @@ GitHub: https://github.com/sainadh-coder
 | [0035-search-insert-position](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0041-first-missing-positive](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0048-rotate-image](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
+| [0066-plus-one](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -83,6 +84,7 @@ GitHub: https://github.com/sainadh-coder
 | [0043-multiply-strings](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0043-multiply-strings/) | Medium |
 | [0048-rotate-image](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0050-powx-n/) | Medium |
+| [0066-plus-one](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
