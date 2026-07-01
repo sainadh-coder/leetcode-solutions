@@ -41,6 +41,7 @@ GitHub: https://github.com/sainadh-coder
 | [0073-set-matrix-zeroes](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -122,11 +123,13 @@ GitHub: https://github.com/sainadh-coder
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0031-next-permutation](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0018-4sum](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0018-4sum/) | Medium |
 | [0075-sort-colors](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
