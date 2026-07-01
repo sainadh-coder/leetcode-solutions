@@ -53,6 +53,7 @@ GitHub: https://github.com/sainadh-coder
 | [0013-roman-to-integer](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0043-multiply-strings](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0043-multiply-strings/) | Medium |
+| [0058-length-of-last-word](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
