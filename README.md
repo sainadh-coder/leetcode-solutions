@@ -61,6 +61,7 @@ GitHub: https://github.com/sainadh-coder
 | [0043-multiply-strings](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0043-multiply-strings/) | Medium |
 | [0058-length-of-last-word](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
+| [0115-distinct-subsequences](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -167,6 +168,7 @@ GitHub: https://github.com/sainadh-coder
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
+| [0115-distinct-subsequences](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0115-distinct-subsequences/) | Hard |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
