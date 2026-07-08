@@ -70,6 +70,7 @@ GitHub: https://github.com/sainadh-coder
 | [0115-distinct-subsequences](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -105,6 +106,7 @@ GitHub: https://github.com/sainadh-coder
 | [0070-climbing-stairs](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -215,4 +217,8 @@ GitHub: https://github.com/sainadh-coder
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 <!---LeetCode Topics End-->
