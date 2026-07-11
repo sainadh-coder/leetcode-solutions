@@ -61,6 +61,7 @@ GitHub: https://github.com/sainadh-coder
 | [0645-set-mismatch](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0645-set-mismatch/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [1095-find-in-mountain-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1095-find-in-mountain-array/) | Hard |
 | [1288-remove-covered-intervals](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -197,6 +198,7 @@ GitHub: https://github.com/sainadh-coder
 | [0410-split-array-largest-sum](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [1095-find-in-mountain-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1095-find-in-mountain-array/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -376,4 +378,8 @@ GitHub: https://github.com/sainadh-coder
 | ------- | ------- |
 | [0386-lexicographical-numbers](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0386-lexicographical-numbers/) | Medium |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0440-k-th-smallest-in-lexicographical-order/) | Hard |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1095-find-in-mountain-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1095-find-in-mountain-array/) | Hard |
 <!---LeetCode Topics End-->
