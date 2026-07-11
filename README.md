@@ -130,6 +130,7 @@ GitHub: https://github.com/sainadh-coder
 | [0227-basic-calculator-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0231-power-of-two](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0231-power-of-two/) | Easy |
 | [0233-number-of-digit-one](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0233-number-of-digit-one/) | Hard |
+| [0258-add-digits](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0258-add-digits/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
@@ -232,6 +233,7 @@ GitHub: https://github.com/sainadh-coder
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0043-multiply-strings/) | Medium |
 | [0067-add-binary](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
+| [0258-add-digits](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0258-add-digits/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -293,6 +295,7 @@ GitHub: https://github.com/sainadh-coder
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
+| [0258-add-digits](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0258-add-digits/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
