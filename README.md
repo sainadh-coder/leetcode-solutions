@@ -294,6 +294,7 @@ GitHub: https://github.com/sainadh-coder
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0386-lexicographical-numbers](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0386-lexicographical-numbers/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Prefix Sum
@@ -332,4 +333,8 @@ GitHub: https://github.com/sainadh-coder
 | ------- | ------- |
 | [0224-basic-calculator](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0224-basic-calculator/) | Hard |
 | [0227-basic-calculator-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0227-basic-calculator-ii/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0386-lexicographical-numbers](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0386-lexicographical-numbers/) | Medium |
 <!---LeetCode Topics End-->
