@@ -1,4 +1,3 @@
-from collections import deque
 from typing import List
 
 class Solution:
@@ -10,32 +9,28 @@ class Solution:
             adj[v].append(u)
 
         visited = [False] * n
+
+        def dfs(node):
+            visited[node] = True
+            nodes = 1
+            degree_sum = len(adj[node])
+
+            for nei in adj[node]:
+                if not visited[nei]:
+                    cnt, deg = dfs(nei)
+                    nodes += cnt
+                    degree_sum += deg
+
+            return nodes, degree_sum
+
         ans = 0
 
         for i in range(n):
-            if visited[i]:
-                continue
+            if not visited[i]:
+                nodes, degree_sum = dfs(i)
+                edge_count = degree_sum // 2
 
-            q = deque([i])
-            visited[i] = True
-
-            nodes = 0
-            degree_sum = 0
-
-            while q:
-                u = q.popleft()
-                nodes += 1
-                degree_sum += len(adj[u])
-
-                for v in adj[u]:
-                    if not visited[v]:
-                        visited[v] = True
-                        q.append(v)
-
-            edge_count = degree_sum // 2
-            required = nodes * (nodes - 1) // 2
-
-            if edge_count == required:
-                ans += 1
+                if edge_count == nodes * (nodes - 1) // 2:
+                    ans += 1
 
         return ans
