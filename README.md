@@ -45,6 +45,7 @@ GitHub: https://github.com/sainadh-coder
 | [0118-pascals-triangle](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0120-triangle](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0162-find-peak-element](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0162-find-peak-element/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -125,6 +126,7 @@ GitHub: https://github.com/sainadh-coder
 | [0035-search-insert-position](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0069-sqrtx/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0162-find-peak-element](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0162-find-peak-element/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
