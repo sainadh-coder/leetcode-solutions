@@ -141,6 +141,7 @@ GitHub: https://github.com/sainadh-coder
 | [0342-power-of-four](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0342-power-of-four/) | Easy |
 | [0367-valid-perfect-square](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0371-sum-of-two-integers/) | Medium |
+| [0372-super-pow](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0372-super-pow/) | Medium |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
@@ -177,6 +178,7 @@ GitHub: https://github.com/sainadh-coder
 | [0004-median-of-two-sorted-arrays](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0169-majority-element](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0372-super-pow](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0372-super-pow/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
