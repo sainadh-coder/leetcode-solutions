@@ -85,6 +85,7 @@ GitHub: https://github.com/sainadh-coder
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0645-set-mismatch](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0645-set-mismatch/) | Easy |
 | [1015-smallest-integer-divisible-by-k](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
+| [1189-maximum-number-of-balloons](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## String
@@ -102,6 +103,7 @@ GitHub: https://github.com/sainadh-coder
 | [0227-basic-calculator-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0415-add-strings](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0415-add-strings/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Sliding Window
@@ -352,6 +354,7 @@ GitHub: https://github.com/sainadh-coder
 | ------- | ------- |
 | [0169-majority-element](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
+| [1189-maximum-number-of-balloons](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
