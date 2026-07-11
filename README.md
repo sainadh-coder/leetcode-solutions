@@ -75,6 +75,7 @@ GitHub: https://github.com/sainadh-coder
 | [1833-maximum-ice-cream-bars](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1840-maximum-building-height/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [1929-concatenation-of-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -319,6 +320,7 @@ GitHub: https://github.com/sainadh-coder
 | [0067-add-binary](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [0258-add-digits](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0258-add-digits/) | Easy |
 | [0415-add-strings](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0415-add-strings/) | Easy |
+| [1929-concatenation-of-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1929-concatenation-of-array/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
