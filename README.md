@@ -73,6 +73,7 @@ GitHub: https://github.com/sainadh-coder
 | [1672-richest-customer-wealth](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [1840-maximum-building-height](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1840-maximum-building-height/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -185,6 +186,7 @@ GitHub: https://github.com/sainadh-coder
 | [1015-smallest-integer-divisible-by-k](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1840-maximum-building-height](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1840-maximum-building-height/) | Hard |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Recursion
@@ -257,6 +259,7 @@ GitHub: https://github.com/sainadh-coder
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [1840-maximum-building-height](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1840-maximum-building-height/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## String Matching
 | Problem Name | Difficulty |
