@@ -122,6 +122,7 @@ GitHub: https://github.com/sainadh-coder
 | [0601-human-traffic-of-stadium](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0601-human-traffic-of-stadium/) | Hard |
 | [0608-tree-node](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0608-tree-node/) | Medium |
 | [0620-not-boring-movies](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0620-not-boring-movies/) | Easy |
+| [1045-customers-who-bought-all-products](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1045-customers-who-bought-all-products/) | Medium |
 | [1193-monthly-transactions-i](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1193-monthly-transactions-i/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
