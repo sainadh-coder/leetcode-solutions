@@ -69,6 +69,7 @@ GitHub: https://github.com/sainadh-coder
 | [1470-shuffle-the-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1470-shuffle-the-array/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -298,6 +299,7 @@ GitHub: https://github.com/sainadh-coder
 | [0073-set-matrix-zeroes](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Simulation
