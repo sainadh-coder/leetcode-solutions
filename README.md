@@ -89,6 +89,7 @@ GitHub: https://github.com/sainadh-coder
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0175-combine-two-tables/) | Easy |
 | [0178-rank-scores](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0178-rank-scores/) | Medium |
+| [0180-consecutive-numbers](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0180-consecutive-numbers/) | Medium |
 | [0181-employees-earning-more-than-their-managers](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0584-find-customer-referee](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0584-find-customer-referee/) | Easy |
 | [0620-not-boring-movies](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0620-not-boring-movies/) | Easy |
