@@ -112,6 +112,7 @@ GitHub: https://github.com/sainadh-coder
 | [0184-department-highest-salary](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0184-department-highest-salary/) | Medium |
 | [0262-trips-and-users](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0262-trips-and-users/) | Hard |
 | [0584-find-customer-referee](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0584-find-customer-referee/) | Easy |
+| [0585-investments-in-2016](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0585-investments-in-2016/) | Medium |
 | [0620-not-boring-movies](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0620-not-boring-movies/) | Easy |
 | [1193-monthly-transactions-i](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1193-monthly-transactions-i/) | Medium |
 ## Linked List
