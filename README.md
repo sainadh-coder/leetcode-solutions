@@ -65,6 +65,7 @@ GitHub: https://github.com/sainadh-coder
 | [1288-remove-covered-intervals](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -88,6 +89,7 @@ GitHub: https://github.com/sainadh-coder
 | [1015-smallest-integer-divisible-by-k](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -245,6 +247,7 @@ GitHub: https://github.com/sainadh-coder
 | [0442-find-all-duplicates-in-an-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0645-set-mismatch](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0645-set-mismatch/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1288-remove-covered-intervals/) | Medium |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## String Matching
 | Problem Name | Difficulty |
@@ -391,4 +394,8 @@ GitHub: https://github.com/sainadh-coder
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1095-find-in-mountain-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1095-find-in-mountain-array/) | Hard |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 <!---LeetCode Topics End-->
