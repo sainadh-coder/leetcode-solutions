@@ -100,6 +100,7 @@ GitHub: https://github.com/sainadh-coder
 | [0180-consecutive-numbers](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0180-consecutive-numbers/) | Medium |
 | [0181-employees-earning-more-than-their-managers](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0184-department-highest-salary](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0184-department-highest-salary/) | Medium |
+| [0262-trips-and-users](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0262-trips-and-users/) | Hard |
 | [0584-find-customer-referee](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0584-find-customer-referee/) | Easy |
 | [0620-not-boring-movies](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0620-not-boring-movies/) | Easy |
 | [1193-monthly-transactions-i](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1193-monthly-transactions-i/) | Medium |
