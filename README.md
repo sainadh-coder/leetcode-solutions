@@ -129,6 +129,7 @@ GitHub: https://github.com/sainadh-coder
 | [0224-basic-calculator](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0224-basic-calculator/) | Hard |
 | [0227-basic-calculator-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0231-power-of-two](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0231-power-of-two/) | Easy |
+| [0233-number-of-digit-one](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0233-number-of-digit-one/) | Hard |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
@@ -139,6 +140,7 @@ GitHub: https://github.com/sainadh-coder
 | [0050-powx-n](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0050-powx-n/) | Medium |
 | [0224-basic-calculator](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0224-basic-calculator/) | Hard |
 | [0231-power-of-two](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0231-power-of-two/) | Easy |
+| [0233-number-of-digit-one](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0233-number-of-digit-one/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -238,6 +240,7 @@ GitHub: https://github.com/sainadh-coder
 | [0118-pascals-triangle](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0120-triangle](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0233-number-of-digit-one](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0233-number-of-digit-one/) | Hard |
 | [1301-number-of-paths-with-max-score](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3620-network-recovery-pathways/) | Hard |
