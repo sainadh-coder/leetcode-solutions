@@ -132,6 +132,7 @@ GitHub: https://github.com/sainadh-coder
 | [0231-power-of-two](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0231-power-of-two/) | Easy |
 | [0233-number-of-digit-one](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0233-number-of-digit-one/) | Hard |
 | [0258-add-digits](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0258-add-digits/) | Easy |
+| [0263-ugly-number](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0263-ugly-number/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
