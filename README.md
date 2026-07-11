@@ -48,6 +48,7 @@ GitHub: https://github.com/sainadh-coder
 | [0162-find-peak-element](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0179-largest-number/) | Medium |
+| [0204-count-primes](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -116,6 +117,7 @@ GitHub: https://github.com/sainadh-coder
 | [0067-add-binary](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
+| [0204-count-primes](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
@@ -260,4 +262,12 @@ GitHub: https://github.com/sainadh-coder
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
 <!---LeetCode Topics End-->
