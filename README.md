@@ -138,6 +138,7 @@ GitHub: https://github.com/sainadh-coder
 | [0263-ugly-number](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0326-power-of-three](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0326-power-of-three/) | Easy |
+| [0342-power-of-four](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0342-power-of-four/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
@@ -150,6 +151,7 @@ GitHub: https://github.com/sainadh-coder
 | [0231-power-of-two](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0231-power-of-two/) | Easy |
 | [0233-number-of-digit-one](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0233-number-of-digit-one/) | Hard |
 | [0326-power-of-three](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0326-power-of-three/) | Easy |
+| [0342-power-of-four](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0342-power-of-four/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -210,6 +212,7 @@ GitHub: https://github.com/sainadh-coder
 | [0231-power-of-two](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0342-power-of-four](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0342-power-of-four/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Breadth-First Search
