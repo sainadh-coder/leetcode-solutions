@@ -72,6 +72,7 @@ GitHub: https://github.com/sainadh-coder
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -255,6 +256,7 @@ GitHub: https://github.com/sainadh-coder
 | [1288-remove-covered-intervals](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## String Matching
 | Problem Name | Difficulty |
@@ -368,6 +370,7 @@ GitHub: https://github.com/sainadh-coder
 | [0179-largest-number](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0179-largest-number/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
+| [1833-maximum-ice-cream-bars](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
@@ -411,6 +414,7 @@ GitHub: https://github.com/sainadh-coder
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
