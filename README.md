@@ -347,4 +347,5 @@ GitHub: https://github.com/sainadh-coder
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0386-lexicographical-numbers](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0386-lexicographical-numbers/) | Medium |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0440-k-th-smallest-in-lexicographical-order/) | Hard |
 <!---LeetCode Topics End-->
