@@ -98,6 +98,7 @@ GitHub: https://github.com/sainadh-coder
 | [3838-weighted-word-mapping](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3921-score-validator](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3921-score-validator/) | Easy |
 | [3951-minimum-energy-to-maintain-brightness](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3951-minimum-energy-to-maintain-brightness/) | Medium |
+| [3952-maximum-total-value-of-covered-indices](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3952-maximum-total-value-of-covered-indices/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -150,6 +151,7 @@ GitHub: https://github.com/sainadh-coder
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3921-score-validator](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3921-score-validator/) | Easy |
+| [3952-maximum-total-value-of-covered-indices](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3952-maximum-total-value-of-covered-indices/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -398,6 +400,7 @@ GitHub: https://github.com/sainadh-coder
 | [3700-number-of-zigzag-arrays-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
+| [3952-maximum-total-value-of-covered-indices](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3952-maximum-total-value-of-covered-indices/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -451,6 +454,7 @@ GitHub: https://github.com/sainadh-coder
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3689-maximum-total-subarray-value-i](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
+| [3952-maximum-total-value-of-covered-indices](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3952-maximum-total-value-of-covered-indices/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
