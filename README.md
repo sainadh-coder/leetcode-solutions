@@ -330,6 +330,7 @@ GitHub: https://github.com/sainadh-coder
 | [3370-smallest-number-with-all-set-bits](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3370-smallest-number-with-all-set-bits/) | Easy |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3950-exactly-one-consecutive-set-bits-pair](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3950-exactly-one-consecutive-set-bits-pair/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
