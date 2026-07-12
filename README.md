@@ -99,6 +99,7 @@ GitHub: https://github.com/sainadh-coder
 | [3921-score-validator](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3921-score-validator/) | Easy |
 | [3951-minimum-energy-to-maintain-brightness](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3951-minimum-energy-to-maintain-brightness/) | Medium |
 | [3952-maximum-total-value-of-covered-indices](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3952-maximum-total-value-of-covered-indices/) | Medium |
+| [3953-maximum-score-with-co-prime-element](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3953-maximum-score-with-co-prime-element/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -127,6 +128,7 @@ GitHub: https://github.com/sainadh-coder
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
+| [3953-maximum-score-with-co-prime-element](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3953-maximum-score-with-co-prime-element/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -234,6 +236,7 @@ GitHub: https://github.com/sainadh-coder
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
+| [3953-maximum-score-with-co-prime-element](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3953-maximum-score-with-co-prime-element/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -469,11 +472,13 @@ GitHub: https://github.com/sainadh-coder
 | [0204-count-primes](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+| [3953-maximum-score-with-co-prime-element](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3953-maximum-score-with-co-prime-element/) | Hard |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
 | [0258-add-digits](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0258-add-digits/) | Easy |
+| [3953-maximum-score-with-co-prime-element](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3953-maximum-score-with-co-prime-element/) | Hard |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -532,4 +537,8 @@ GitHub: https://github.com/sainadh-coder
 | ------- | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3953-maximum-score-with-co-prime-element](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3953-maximum-score-with-co-prime-element/) | Hard |
 <!---LeetCode Topics End-->
