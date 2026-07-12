@@ -94,6 +94,7 @@ GitHub: https://github.com/sainadh-coder
 | [3689-maximum-total-subarray-value-i](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -121,6 +122,7 @@ GitHub: https://github.com/sainadh-coder
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -264,6 +266,7 @@ GitHub: https://github.com/sainadh-coder
 | [0215-kth-largest-element-in-an-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0372-super-pow](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0372-super-pow/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -421,6 +424,7 @@ GitHub: https://github.com/sainadh-coder
 | [2485-find-the-pivot-integer](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -504,8 +508,10 @@ GitHub: https://github.com/sainadh-coder
 | ------- | ------- |
 | [3691-maximum-total-subarray-value-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 <!---LeetCode Topics End-->
