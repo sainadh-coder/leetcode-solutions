@@ -211,6 +211,7 @@ GitHub: https://github.com/sainadh-coder
 | [2485-find-the-pivot-integer](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [3370-smallest-number-with-all-set-bits](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3370-smallest-number-with-all-set-bits/) | Easy |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Recursion
@@ -394,6 +395,7 @@ GitHub: https://github.com/sainadh-coder
 | [0386-lexicographical-numbers](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0386-lexicographical-numbers/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -470,6 +472,7 @@ GitHub: https://github.com/sainadh-coder
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2196-create-binary-tree-from-descriptions](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
