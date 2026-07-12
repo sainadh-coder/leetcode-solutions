@@ -1,22 +1,17 @@
 class Solution(object):
     def arrayRankTransform(self, arr):
-        """
-        :type arr: List[int]
-        :rtype: List[int]
-        """
-        arr2 = arr[:]     
+        arr2 = arr[:]
         arr2.sort()
 
         ranks = {}
-        rank = 1
 
-        for num in arr2:
-            if num not in ranks:
-                ranks[num] = rank
-                rank += 1
+        if len(arr2) > 0:
+            rank = 1
+            ranks[arr2[0]] = rank
 
-        ans = []
-        for num in arr:
-            ans.append(ranks[num])
+            for i in range(1, len(arr2)):
+                if arr2[i] != arr2[i - 1]:
+                    rank += 1
+                ranks[arr2[i]] = rank
 
-        return ans
+        return [ranks[x] for x in arr]
