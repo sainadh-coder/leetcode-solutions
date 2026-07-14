@@ -89,6 +89,7 @@ GitHub: https://github.com/sainadh-coder
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sainadh-coder/leetcode-solutions/tree/main/Python3/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3423-maximum-difference-between-adjacent-elements-in-a-circular-array/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -232,6 +233,7 @@ GitHub: https://github.com/sainadh-coder
 | [1840-maximum-building-height](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1840-maximum-building-height/) | Hard |
 | [2485-find-the-pivot-integer](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sainadh-coder/leetcode-solutions/tree/main/Python3/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3370-smallest-number-with-all-set-bits](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3370-smallest-number-with-all-set-bits/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -405,6 +407,7 @@ GitHub: https://github.com/sainadh-coder
 | [0509-fibonacci-number](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sainadh-coder/leetcode-solutions/tree/main/Python3/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3620-network-recovery-pathways/) | Hard |
@@ -488,6 +491,7 @@ GitHub: https://github.com/sainadh-coder
 | ------- | ------- |
 | [0204-count-primes](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
 | [0258-add-digits](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0258-add-digits/) | Easy |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sainadh-coder/leetcode-solutions/tree/main/Python3/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3953-maximum-score-with-co-prime-element](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3953-maximum-score-with-co-prime-element/) | Hard |
 ## Quickselect
 | Problem Name | Difficulty |
