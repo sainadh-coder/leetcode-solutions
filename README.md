@@ -150,6 +150,7 @@ GitHub: https://github.com/sainadh-coder
 | [0058-length-of-last-word](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [0115-distinct-subsequences](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0115-distinct-subsequences/) | Hard |
+| [0171-excel-sheet-column-number](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0179-largest-number](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0179-largest-number/) | Medium |
 | [0224-basic-calculator](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0224-basic-calculator/) | Hard |
 | [0227-basic-calculator-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0227-basic-calculator-ii/) | Medium |
@@ -214,6 +215,7 @@ GitHub: https://github.com/sainadh-coder
 | [0067-add-binary](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
+| [0171-excel-sheet-column-number](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0204-count-primes](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
 | [0223-rectangle-area](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0223-rectangle-area/) | Medium |
 | [0224-basic-calculator](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0224-basic-calculator/) | Hard |
