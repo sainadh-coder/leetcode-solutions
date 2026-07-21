@@ -161,6 +161,7 @@ GitHub: https://github.com/sainadh-coder
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
+| [3499-maximize-active-section-with-trade-i](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
@@ -507,6 +508,7 @@ GitHub: https://github.com/sainadh-coder
 | [0204-count-primes](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
 | [1291-sequential-digits](https://github.com/sainadh-coder/leetcode-solutions/tree/main/Python3/1291-sequential-digits/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+| [3499-maximize-active-section-with-trade-i](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3953-maximum-score-with-co-prime-element](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3953-maximum-score-with-co-prime-element/) | Hard |
 ## Number Theory
