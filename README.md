@@ -124,6 +124,7 @@ GitHub: https://github.com/sainadh-coder
 | [0169-majority-element](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
+| [0242-valid-anagram](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -159,6 +160,7 @@ GitHub: https://github.com/sainadh-coder
 | [0179-largest-number](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0179-largest-number/) | Medium |
 | [0224-basic-calculator](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0224-basic-calculator/) | Hard |
 | [0227-basic-calculator-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0227-basic-calculator-ii/) | Medium |
+| [0242-valid-anagram](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0415-add-strings](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0415-add-strings/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -341,6 +343,7 @@ GitHub: https://github.com/sainadh-coder
 | [0215-kth-largest-element-in-an-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
+| [0242-valid-anagram](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
