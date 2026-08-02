@@ -67,6 +67,7 @@ GitHub: https://github.com/sainadh-coder
 | [0645-set-mismatch](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0645-set-mismatch/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0877-stone-game](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 | [1095-find-in-mountain-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1095-find-in-mountain-array/) | Hard |
 | [1260-shift-2d-grid](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1288-remove-covered-intervals/) | Medium |
@@ -256,6 +257,7 @@ GitHub: https://github.com/sainadh-coder
 | [0509-fibonacci-number](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0728-self-dividing-numbers/) | Easy |
+| [0877-stone-game](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 | [1015-smallest-integer-divisible-by-k](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
@@ -466,6 +468,7 @@ GitHub: https://github.com/sainadh-coder
 | [0410-split-array-largest-sum](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0486-predict-the-winner](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
+| [0877-stone-game](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sainadh-coder/leetcode-solutions/tree/main/Python3/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -641,4 +644,5 @@ GitHub: https://github.com/sainadh-coder
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
