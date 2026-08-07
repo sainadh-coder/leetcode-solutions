@@ -176,6 +176,7 @@ GitHub: https://github.com/sainadh-coder
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
@@ -272,6 +273,7 @@ GitHub: https://github.com/sainadh-coder
 | [3312-sorted-gcd-pair-queries](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sainadh-coder/leetcode-solutions/tree/main/Python3/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3370-smallest-number-with-all-set-bits](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3370-smallest-number-with-all-set-bits/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
@@ -542,6 +544,7 @@ GitHub: https://github.com/sainadh-coder
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3689-maximum-total-subarray-value-i](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
@@ -576,6 +579,7 @@ GitHub: https://github.com/sainadh-coder
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sainadh-coder/leetcode-solutions/tree/main/Python3/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sainadh-coder/leetcode-solutions/tree/main/Python3/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sainadh-coder/leetcode-solutions/tree/main/Python3/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3953-maximum-score-with-co-prime-element](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3953-maximum-score-with-co-prime-element/) | Hard |
@@ -654,4 +658,8 @@ GitHub: https://github.com/sainadh-coder
 | [0486-predict-the-winner](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1406-stone-game-iii/) | Hard |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 <!---LeetCode Topics End-->
