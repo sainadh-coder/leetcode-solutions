@@ -52,6 +52,7 @@ GitHub: https://github.com/sainadh-coder
 | [0162-find-peak-element](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0179-largest-number/) | Medium |
+| [0189-rotate-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
@@ -239,6 +240,7 @@ GitHub: https://github.com/sainadh-coder
 | [0069-sqrtx](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0171-excel-sheet-column-number/) | Easy |
+| [0189-rotate-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
 | [0223-rectangle-area](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0223-rectangle-area/) | Medium |
 | [0224-basic-calculator](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0224-basic-calculator/) | Hard |
@@ -349,6 +351,7 @@ GitHub: https://github.com/sainadh-coder
 | [0031-next-permutation](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0189-rotate-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
