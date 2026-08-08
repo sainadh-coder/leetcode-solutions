@@ -176,6 +176,7 @@ GitHub: https://github.com/sainadh-coder
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
@@ -351,6 +352,7 @@ GitHub: https://github.com/sainadh-coder
 | [0349-intersection-of-two-arrays](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sainadh-coder/leetcode-solutions/tree/main/Python3/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Sorting
@@ -478,6 +480,7 @@ GitHub: https://github.com/sainadh-coder
 | [1301-number-of-paths-with-max-score](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1406-stone-game-iii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sainadh-coder/leetcode-solutions/tree/main/Python3/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -544,6 +547,7 @@ GitHub: https://github.com/sainadh-coder
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3689-maximum-total-subarray-value-i](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
