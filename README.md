@@ -101,6 +101,7 @@ GitHub: https://github.com/sainadh-coder
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3024-type-of-triangle](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3024-type-of-triangle/) | Easy |
+| [3079-find-the-sum-of-encrypted-integers](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3079-find-the-sum-of-encrypted-integers/) | Easy |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sainadh-coder/leetcode-solutions/tree/main/Python3/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -281,6 +282,7 @@ GitHub: https://github.com/sainadh-coder
 | [2520-count-the-digits-that-divide-a-number](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3024-type-of-triangle](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3024-type-of-triangle/) | Easy |
+| [3079-find-the-sum-of-encrypted-integers](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3079-find-the-sum-of-encrypted-integers/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sainadh-coder/leetcode-solutions/tree/main/Python3/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
