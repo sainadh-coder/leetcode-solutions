@@ -1,10 +1,10 @@
 class Solution:
     def triangleType(self, nums: List[int]) -> str:
-        a, b, c = nums
-        if a + b <= c or a + c <= b or b + c <= a:
+        nums.sort()
+        if nums[0] + nums[1] <= nums[2]:
             return "none"
-        if a == b == c:
+        if nums[0] == nums[1] == nums[2]:
             return "equilateral"
-        if a == b or b == c or a == c:
+        if nums[0] == nums[1] or nums[1] == nums[2]:
             return "isosceles"
         return "scalene"
