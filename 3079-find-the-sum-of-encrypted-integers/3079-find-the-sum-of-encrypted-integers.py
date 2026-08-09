@@ -1,3 +1,4 @@
+from math import log10
 class Solution:
     def sumOfEncryptedInt(self, nums: List[int]) -> int:
         ans = 0
@@ -5,16 +6,11 @@ class Solution:
             temp = num
             maxi = 0
             while temp > 0:
-                rem = temp % 10
-                if rem > maxi:
-                    maxi = rem
+                maxi = max(maxi, temp % 10)
                 temp //= 10
-            temp = num
-            place = 1
+            digits = int(log10(num)) + 1
             encrypted = 0
-            while temp > 0:
-                encrypted += maxi * place
-                place *= 10
-                temp //= 10
+            for _ in range(digits):
+                encrypted = encrypted * 10 + maxi
             ans += encrypted
         return ans
