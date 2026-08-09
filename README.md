@@ -130,6 +130,7 @@ GitHub: https://github.com/sainadh-coder
 | [0041-first-missing-positive](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0169-majority-element](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
+| [0202-happy-number](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
@@ -243,6 +244,7 @@ GitHub: https://github.com/sainadh-coder
 | [0070-climbing-stairs](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0189-rotate-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
+| [0202-happy-number](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 | [0204-count-primes](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
 | [0223-rectangle-area](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0223-rectangle-area/) | Medium |
 | [0224-basic-calculator](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0224-basic-calculator/) | Hard |
@@ -357,6 +359,7 @@ GitHub: https://github.com/sainadh-coder
 | [0075-sort-colors](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
+| [0202-happy-number](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
@@ -688,4 +691,8 @@ GitHub: https://github.com/sainadh-coder
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1140-stone-game-ii/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 <!---LeetCode Topics End-->
