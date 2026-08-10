@@ -63,6 +63,7 @@ GitHub: https://github.com/sainadh-coder
 | [0268-missing-number](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -140,6 +141,7 @@ GitHub: https://github.com/sainadh-coder
 | [0242-valid-anagram](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0645-set-mismatch](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0645-set-mismatch/) | Easy |
@@ -333,6 +335,7 @@ GitHub: https://github.com/sainadh-coder
 | [0268-missing-number](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0367-valid-perfect-square](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0400-nth-digit](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0400-nth-digit/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0410-split-array-largest-sum/) | Hard |
@@ -372,6 +375,7 @@ GitHub: https://github.com/sainadh-coder
 | [0202-happy-number](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -393,6 +397,7 @@ GitHub: https://github.com/sainadh-coder
 | [0242-valid-anagram](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0645-set-mismatch/) | Easy |
