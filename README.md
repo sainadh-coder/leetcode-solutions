@@ -102,6 +102,7 @@ GitHub: https://github.com/sainadh-coder
 | [2574-left-and-right-sum-differences](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3024-type-of-triangle](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3024-type-of-triangle/) | Easy |
@@ -154,6 +155,7 @@ GitHub: https://github.com/sainadh-coder
 | [2043-simple-bank-system](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2043-simple-bank-system/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
@@ -207,6 +209,7 @@ GitHub: https://github.com/sainadh-coder
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
