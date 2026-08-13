@@ -1,65 +1,65 @@
 class Solution:
     def longestRepeating(self, s: str, queryCharacters: str, queryIndices: List[int]) -> List[int]:
         n = len(s)
+        tree = [None] * (4 * n)
+        def merge(left, right):
+            if left is None:
+                return right
+            if right is None:
+                return left
+            lc, lrc, llen, lp, ls, lb = left
+            rlc, rc, rlen, rp, rs, rb = right
+            length = llen + rlen
 
-        pref = [0] * (4 * n)
-        suff = [0] * (4 * n)
-        best = [0] * (4 * n)
-        leftc = [''] * (4 * n)
-        rightc = [''] * (4 * n)
+            prefix = lp
 
-        def pull(idx, l, r):
-            mid = (l + r) // 2
-            lc = idx * 2
-            rc = idx * 2 + 1
+            if lrc == rlc and lp == llen:
+                prefix = llen + rp
 
-            leftc[idx] = leftc[lc]
-            rightc[idx] = rightc[rc]
+            suffix = rs
 
-            pref[idx] = pref[lc]
-            if pref[lc] == mid - l + 1 and rightc[lc] == leftc[rc]:
-                pref[idx] += pref[rc]
+            if lrc == rlc and rs == rlen:
+                suffix = rlen + ls
 
-            suff[idx] = suff[rc]
-            if suff[rc] == r - mid and rightc[lc] == leftc[rc]:
-                suff[idx] += suff[lc]
+            best = max(lb, rb)
 
-            best[idx] = max(best[lc], best[rc])
+            if lrc == rlc:
+                best = max(best, ls + rp)
 
-            if rightc[lc] == leftc[rc]:
-                best[idx] = max(best[idx], suff[lc] + pref[rc])
+            return [lc, rc, length, prefix, suffix, best]
 
-        def build(idx, l, r):
-            if l == r:
-                pref[idx] = suff[idx] = best[idx] = 1
-                leftc[idx] = rightc[idx] = s[l]
+        def build(node, start, end):
+            if start == end:
+                tree[node] = [s[start], s[start], 1, 1, 1, 1]
                 return
 
-            mid = (l + r) // 2
-            build(idx * 2, l, mid)
-            build(idx * 2 + 1, mid + 1, r)
-            pull(idx, l, r)
+            mid = (start + end) // 2
 
-        def update(idx, l, r, pos, ch):
-            if l == r:
-                leftc[idx] = rightc[idx] = ch
+            build(node * 2, start, mid)
+            build(node * 2 + 1, mid + 1, end)
+
+            tree[node] = merge(tree[node * 2], tree[node * 2 + 1])
+
+        def update(node, start, end, index, char):
+            if start == end:
+                tree[node] = [char, char, 1, 1, 1, 1]
                 return
 
-            mid = (l + r) // 2
+            mid = (start + end) // 2
 
-            if pos <= mid:
-                update(idx * 2, l, mid, pos, ch)
+            if index <= mid:
+                update(node * 2, start, mid, index, char)
             else:
-                update(idx * 2 + 1, mid + 1, r, pos, ch)
+                update(node * 2 + 1, mid + 1, end, index, char)
 
-            pull(idx, l, r)
+            tree[node] = merge(tree[node * 2], tree[node * 2 + 1])
 
         build(1, 0, n - 1)
 
-        ans = []
+        answer = []
 
-        for pos, ch in zip(queryIndices, queryCharacters):
-            update(1, 0, n - 1, pos, ch)
-            ans.append(best[1])
+        for char, index in zip(queryCharacters, queryIndices):
+            update(1, 0, n - 1, index, char)
+            answer.append(tree[1][5])
 
-        return ans
+        return answer
