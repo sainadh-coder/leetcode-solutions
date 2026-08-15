@@ -121,6 +121,7 @@ GitHub: https://github.com/sainadh-coder
 | [3620-network-recovery-pathways](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3689-maximum-total-subarray-value-i](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -452,6 +453,7 @@ GitHub: https://github.com/sainadh-coder
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3950-exactly-one-consecutive-set-bits-pair](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3950-exactly-one-consecutive-set-bits-pair/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
