@@ -87,6 +87,7 @@ GitHub: https://github.com/sainadh-coder
 | [1470-shuffle-the-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1470-shuffle-the-array/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
+| [1563-stone-game-v](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1563-stone-game-v/) | Hard |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -294,6 +295,7 @@ GitHub: https://github.com/sainadh-coder
 | [1344-angle-between-hands-of-a-clock](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1406-stone-game-iii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1510-stone-game-iv/) | Hard |
+| [1563-stone-game-v](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1563-stone-game-v/) | Hard |
 | [1840-maximum-building-height](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1840-maximum-building-height/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2029-stone-game-ix/) | Medium |
@@ -528,6 +530,7 @@ GitHub: https://github.com/sainadh-coder
 | [1406-stone-game-iii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1510-stone-game-iv/) | Hard |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
+| [1563-stone-game-v](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1563-stone-game-v/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sainadh-coder/leetcode-solutions/tree/main/Python3/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -717,6 +720,7 @@ GitHub: https://github.com/sainadh-coder
 | [1140-stone-game-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1510-stone-game-iv/) | Hard |
+| [1563-stone-game-v](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1563-stone-game-v/) | Hard |
 | [2029-stone-game-ix](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2029-stone-game-ix/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
