@@ -114,6 +114,7 @@ GitHub: https://github.com/sainadh-coder
 | [3312-sorted-gcd-pair-queries](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sainadh-coder/leetcode-solutions/tree/main/Python3/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3423-maximum-difference-between-adjacent-elements-in-a-circular-array/) | Easy |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
@@ -166,6 +167,7 @@ GitHub: https://github.com/sainadh-coder
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
