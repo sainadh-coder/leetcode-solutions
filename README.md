@@ -110,6 +110,7 @@ GitHub: https://github.com/sainadh-coder
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3024-type-of-triangle](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3024-type-of-triangle/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3079-find-the-sum-of-encrypted-integers/) | Easy |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -511,6 +512,7 @@ GitHub: https://github.com/sainadh-coder
 | [1260-shift-2d-grid](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1929-concatenation-of-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [2043-simple-bank-system](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2043-simple-bank-system/) | Medium |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3838-weighted-word-mapping/) | Easy |
