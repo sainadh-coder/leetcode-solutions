@@ -1,13 +1,13 @@
+import math
+
 class Solution:
     def findKthSmallest(self, coins: List[int], k: int) -> int:
         def count(x):
             ans = 0
-            m = len(coins)
-            for mask in range(1, 1 << m):
+            for mask in range(1, 1 << len(coins)):
                 l = 1
                 bits = 0
-
-                for i in range(m):
+                for i in range(len(coins)):
                     if mask & (1 << i):
                         bits += 1
                         l = l * coins[i] // math.gcd(l, coins[i])
