@@ -129,6 +129,7 @@ GitHub: https://github.com/sainadh-coder
 | [3689-maximum-total-subarray-value-i](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
+| [3718-smallest-missing-multiple-of-k](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -175,6 +176,7 @@ GitHub: https://github.com/sainadh-coder
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3718-smallest-missing-multiple-of-k](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3953-maximum-score-with-co-prime-element](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3953-maximum-score-with-co-prime-element/) | Hard |
