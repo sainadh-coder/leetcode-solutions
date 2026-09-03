@@ -39,6 +39,7 @@ GitHub: https://github.com/sainadh-coder
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0041-first-missing-positive](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0041-first-missing-positive/) | Hard |
+| [0046-permutations](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
@@ -770,6 +771,7 @@ GitHub: https://github.com/sainadh-coder
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0046-permutations](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0046-permutations/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Minimax
 | Problem Name | Difficulty |
