@@ -140,6 +140,7 @@ GitHub: https://github.com/sainadh-coder
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sainadh-coder/leetcode-solutions/tree/main/Python3/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3921-score-validator](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3921-score-validator/) | Easy |
 | [3951-minimum-energy-to-maintain-brightness](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3951-minimum-energy-to-maintain-brightness/) | Medium |
 | [3952-maximum-total-value-of-covered-indices](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3952-maximum-total-value-of-covered-indices/) | Medium |
@@ -625,6 +626,7 @@ GitHub: https://github.com/sainadh-coder
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
