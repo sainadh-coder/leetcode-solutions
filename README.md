@@ -73,6 +73,7 @@ GitHub: https://github.com/sainadh-coder
 | [0628-maximum-product-of-three-numbers](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0645-set-mismatch/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [0835-image-overlap](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0835-image-overlap/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0877-stone-game](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 | [1095-find-in-mountain-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1095-find-in-mountain-array/) | Hard |
@@ -533,6 +534,7 @@ GitHub: https://github.com/sainadh-coder
 | [0073-set-matrix-zeroes](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0835-image-overlap](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0835-image-overlap/) | Medium |
 | [1260-shift-2d-grid](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
