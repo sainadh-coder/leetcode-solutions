@@ -315,6 +315,7 @@ GitHub: https://github.com/sainadh-coder
 | [0509-fibonacci-number](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0728-self-dividing-numbers/) | Easy |
+| [0836-rectangle-overlap](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 | [1015-smallest-integer-divisible-by-k](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1140-stone-game-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1140-stone-game-ii/) | Medium |
@@ -708,6 +709,7 @@ GitHub: https://github.com/sainadh-coder
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0223-rectangle-area](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0223-rectangle-area/) | Medium |
+| [0836-rectangle-overlap](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0836-rectangle-overlap/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
