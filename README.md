@@ -88,6 +88,7 @@ GitHub: https://github.com/sainadh-coder
 | [1406-stone-game-iii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1470-shuffle-the-array/) | Easy |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
 | [1563-stone-game-v](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1563-stone-game-v/) | Hard |
@@ -175,6 +176,7 @@ GitHub: https://github.com/sainadh-coder
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [2043-simple-bank-system](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2043-simple-bank-system/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -244,6 +246,7 @@ GitHub: https://github.com/sainadh-coder
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -395,6 +398,7 @@ GitHub: https://github.com/sainadh-coder
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1095-find-in-mountain-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1095-find-in-mountain-array/) | Hard |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -580,6 +584,7 @@ GitHub: https://github.com/sainadh-coder
 | [1140-stone-game-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1406-stone-game-iii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1406-stone-game-iii/) | Hard |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1510-stone-game-iv](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1510-stone-game-iv/) | Hard |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
 | [1563-stone-game-v](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1563-stone-game-v/) | Hard |
