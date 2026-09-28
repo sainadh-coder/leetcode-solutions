@@ -295,6 +295,7 @@ GitHub: https://github.com/sainadh-coder
 | [0043-multiply-strings](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0043-multiply-strings/) | Medium |
 | [0048-rotate-image](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0050-powx-n/) | Medium |
+| [0060-permutation-sequence](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0060-permutation-sequence/) | Hard |
 | [0066-plus-one](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0069-sqrtx/) | Easy |
@@ -373,6 +374,7 @@ GitHub: https://github.com/sainadh-coder
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0050-powx-n](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0050-powx-n/) | Medium |
+| [0060-permutation-sequence](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0060-permutation-sequence/) | Hard |
 | [0224-basic-calculator](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0224-basic-calculator/) | Hard |
 | [0231-power-of-two](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0231-power-of-two/) | Easy |
 | [0233-number-of-digit-one](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0233-number-of-digit-one/) | Hard |
