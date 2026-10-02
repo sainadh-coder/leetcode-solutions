@@ -210,6 +210,7 @@ GitHub: https://github.com/sainadh-coder
 | [0014-longest-common-prefix](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0043-multiply-strings](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0043-multiply-strings/) | Medium |
 | [0058-length-of-last-word](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0058-length-of-last-word/) | Easy |
@@ -582,6 +583,7 @@ GitHub: https://github.com/sainadh-coder
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0053-maximum-subarray](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0115-distinct-subsequences](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0115-distinct-subsequences/) | Hard |
@@ -822,6 +824,7 @@ GitHub: https://github.com/sainadh-coder
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0022-generate-parentheses](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0046-permutations](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0046-permutations/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Minimax
@@ -859,6 +862,7 @@ GitHub: https://github.com/sainadh-coder
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
