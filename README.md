@@ -212,6 +212,7 @@ GitHub: https://github.com/sainadh-coder
 | [0020-valid-parentheses](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0043-multiply-strings](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0043-multiply-strings/) | Medium |
 | [0058-length-of-last-word](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
@@ -584,6 +585,7 @@ GitHub: https://github.com/sainadh-coder
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0053-maximum-subarray](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0115-distinct-subsequences](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0115-distinct-subsequences/) | Hard |
@@ -742,6 +744,7 @@ GitHub: https://github.com/sainadh-coder
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0224-basic-calculator](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0224-basic-calculator/) | Hard |
 | [0227-basic-calculator-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0227-basic-calculator-ii/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -863,6 +866,7 @@ GitHub: https://github.com/sainadh-coder
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
