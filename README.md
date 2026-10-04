@@ -224,6 +224,7 @@ GitHub: https://github.com/sainadh-coder
 | [0242-valid-anagram](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0415-add-strings](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0415-add-strings/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
@@ -596,6 +597,7 @@ GitHub: https://github.com/sainadh-coder
 | [0410-split-array-largest-sum](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0486-predict-the-winner](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0877-stone-game](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1140-stone-game-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1140-stone-game-ii/) | Medium |
@@ -676,6 +678,7 @@ GitHub: https://github.com/sainadh-coder
 | ------- | ------- |
 | [0179-largest-number](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0179-largest-number/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0678-valid-parenthesis-string](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
@@ -747,6 +750,7 @@ GitHub: https://github.com/sainadh-coder
 | [0032-longest-valid-parentheses](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0224-basic-calculator](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0224-basic-calculator/) | Hard |
 | [0227-basic-calculator-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0227-basic-calculator-ii/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
@@ -867,6 +871,7 @@ GitHub: https://github.com/sainadh-coder
 | [0020-valid-parentheses](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0678-valid-parenthesis-string](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
