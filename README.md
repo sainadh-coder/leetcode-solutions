@@ -108,6 +108,7 @@ GitHub: https://github.com/sainadh-coder
 | [2043-simple-bank-system](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2043-simple-bank-system/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
@@ -490,6 +491,7 @@ GitHub: https://github.com/sainadh-coder
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1998-gcd-sort-of-an-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1998-gcd-sort-of-an-array/) | Hard |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
