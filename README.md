@@ -905,4 +905,12 @@ GitHub: https://github.com/sainadh-coder
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1998-gcd-sort-of-an-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1998-gcd-sort-of-an-array/) | Hard |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
