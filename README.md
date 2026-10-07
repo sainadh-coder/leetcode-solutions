@@ -222,6 +222,7 @@ GitHub: https://github.com/sainadh-coder
 | [0224-basic-calculator](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0224-basic-calculator/) | Hard |
 | [0227-basic-calculator-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
+| [0301-remove-invalid-parentheses](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0415-add-strings](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0415-add-strings/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -528,6 +529,7 @@ GitHub: https://github.com/sainadh-coder
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -835,6 +837,7 @@ GitHub: https://github.com/sainadh-coder
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0046-permutations](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0046-permutations/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Minimax
 | Problem Name | Difficulty |
