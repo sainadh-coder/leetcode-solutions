@@ -103,6 +103,7 @@ GitHub: https://github.com/sainadh-coder
 | [1929-concatenation-of-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [1998-gcd-sort-of-an-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1998-gcd-sort-of-an-array/) | Hard |
 | [2029-stone-game-ix](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [2043-simple-bank-system](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2043-simple-bank-system/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
@@ -350,6 +351,7 @@ GitHub: https://github.com/sainadh-coder
 | [1872-stone-game-viii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [1998-gcd-sort-of-an-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1998-gcd-sort-of-an-array/) | Hard |
 | [2029-stone-game-ix](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [2485-find-the-pivot-integer](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
@@ -486,6 +488,7 @@ GitHub: https://github.com/sainadh-coder
 | [1833-maximum-ice-cream-bars](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1840-maximum-building-height/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [1998-gcd-sort-of-an-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1998-gcd-sort-of-an-array/) | Hard |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -539,6 +542,7 @@ GitHub: https://github.com/sainadh-coder
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1998-gcd-sort-of-an-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1998-gcd-sort-of-an-array/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -730,6 +734,7 @@ GitHub: https://github.com/sainadh-coder
 | [0204-count-primes](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
 | [0258-add-digits](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0258-add-digits/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [1998-gcd-sort-of-an-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1998-gcd-sort-of-an-array/) | Hard |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sainadh-coder/leetcode-solutions/tree/main/Python3/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -886,4 +891,16 @@ GitHub: https://github.com/sainadh-coder
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+## Prime Factorization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1998-gcd-sort-of-an-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1998-gcd-sort-of-an-array/) | Hard |
+## Euclidean Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1998-gcd-sort-of-an-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1998-gcd-sort-of-an-array/) | Hard |
+## Greatest Common Divisor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1998-gcd-sort-of-an-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1998-gcd-sort-of-an-array/) | Hard |
 <!---LeetCode Topics End-->
