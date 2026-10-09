@@ -236,6 +236,7 @@ GitHub: https://github.com/sainadh-coder
 | [1189-maximum-number-of-balloons](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1927-sum-game](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1927-sum-game/) | Medium |
@@ -696,6 +697,7 @@ GitHub: https://github.com/sainadh-coder
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1927-sum-game](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1927-sum-game/) | Medium |
@@ -772,6 +774,7 @@ GitHub: https://github.com/sainadh-coder
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Trie
@@ -895,6 +898,7 @@ GitHub: https://github.com/sainadh-coder
 | [1021-remove-outermost-parentheses](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Ordered Set
