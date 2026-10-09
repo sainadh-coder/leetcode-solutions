@@ -86,6 +86,7 @@ GitHub: https://github.com/sainadh-coder
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1406-stone-game-iii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1406-stone-game-iii/) | Hard |
+| [1441-build-an-array-with-stack-operations](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1470-shuffle-the-array/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
@@ -599,6 +600,7 @@ GitHub: https://github.com/sainadh-coder
 | [0258-add-digits](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0258-add-digits/) | Easy |
 | [0415-add-strings](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0415-add-strings/) | Easy |
 | [1260-shift-2d-grid](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1260-shift-2d-grid/) | Easy |
+| [1441-build-an-array-with-stack-operations](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1929-concatenation-of-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [2043-simple-bank-system](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2043-simple-bank-system/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
@@ -784,6 +786,7 @@ GitHub: https://github.com/sainadh-coder
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1441-build-an-array-with-stack-operations](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
