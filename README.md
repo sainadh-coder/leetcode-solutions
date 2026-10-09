@@ -72,6 +72,7 @@ GitHub: https://github.com/sainadh-coder
 | [0485-max-consecutive-ones](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0486-predict-the-winner](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0636-exclusive-time-of-functions](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0636-exclusive-time-of-functions/) | Medium |
 | [0645-set-mismatch](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0645-set-mismatch/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0835-image-overlap](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0835-image-overlap/) | Medium |
@@ -783,6 +784,7 @@ GitHub: https://github.com/sainadh-coder
 | [0224-basic-calculator](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0224-basic-calculator/) | Hard |
 | [0227-basic-calculator-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0636-exclusive-time-of-functions](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0636-exclusive-time-of-functions/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
