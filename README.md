@@ -372,6 +372,7 @@ GitHub: https://github.com/sainadh-coder
 | [2029-stone-game-ix](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [2485-find-the-pivot-integer](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
+| [2523-closest-prime-numbers-in-range](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3024-type-of-triangle](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3024-type-of-triangle/) | Easy |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3079-find-the-sum-of-encrypted-integers/) | Easy |
@@ -769,6 +770,7 @@ GitHub: https://github.com/sainadh-coder
 | [0258-add-digits](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0258-add-digits/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1998-gcd-sort-of-an-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1998-gcd-sort-of-an-array/) | Hard |
+| [2523-closest-prime-numbers-in-range](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sainadh-coder/leetcode-solutions/tree/main/Python3/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -960,12 +962,15 @@ GitHub: https://github.com/sainadh-coder
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
+| [2523-closest-prime-numbers-in-range](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
 ## Sieve Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
+| [2523-closest-prime-numbers-in-range](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
 ## Prime Number Sieve
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
+| [2523-closest-prime-numbers-in-range](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
 <!---LeetCode Topics End-->
