@@ -883,6 +883,7 @@ GitHub: https://github.com/sainadh-coder
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0046-permutations](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0046-permutations/) | Medium |
+| [0077-combinations](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0077-combinations/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Minimax
