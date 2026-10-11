@@ -352,6 +352,7 @@ GitHub: https://github.com/sainadh-coder
 | [0633-sum-of-square-numbers](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0728-self-dividing-numbers](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0728-self-dividing-numbers/) | Easy |
 | [0836-rectangle-overlap](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0836-rectangle-overlap/) | Easy |
+| [0858-mirror-reflection](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0858-mirror-reflection/) | Medium |
 | [0877-stone-game](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 | [1015-smallest-integer-divisible-by-k](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1140-stone-game-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1140-stone-game-ii/) | Medium |
@@ -768,6 +769,7 @@ GitHub: https://github.com/sainadh-coder
 | ------- | ------- |
 | [0204-count-primes](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
 | [0258-add-digits](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0258-add-digits/) | Easy |
+| [0858-mirror-reflection](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0858-mirror-reflection/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1998-gcd-sort-of-an-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1998-gcd-sort-of-an-array/) | Hard |
 | [2523-closest-prime-numbers-in-range](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
@@ -787,6 +789,7 @@ GitHub: https://github.com/sainadh-coder
 | ------- | ------- |
 | [0223-rectangle-area](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0223-rectangle-area/) | Medium |
 | [0836-rectangle-overlap](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0836-rectangle-overlap/) | Easy |
+| [0858-mirror-reflection](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0858-mirror-reflection/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -949,6 +952,7 @@ GitHub: https://github.com/sainadh-coder
 ## Greatest Common Divisor
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0858-mirror-reflection](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0858-mirror-reflection/) | Medium |
 | [1998-gcd-sort-of-an-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1998-gcd-sort-of-an-array/) | Hard |
 ## Quicksort
 | Problem Name | Difficulty |
@@ -973,4 +977,8 @@ GitHub: https://github.com/sainadh-coder
 | ------- | ------- |
 | [0204-count-primes](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
 | [2523-closest-prime-numbers-in-range](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
+## Least Common Multiple
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0858-mirror-reflection](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0858-mirror-reflection/) | Medium |
 <!---LeetCode Topics End-->
