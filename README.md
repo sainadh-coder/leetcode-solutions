@@ -325,6 +325,7 @@ GitHub: https://github.com/sainadh-coder
 | [0070-climbing-stairs](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0171-excel-sheet-column-number](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0171-excel-sheet-column-number/) | Easy |
+| [0172-factorial-trailing-zeroes](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0189-rotate-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 | [0204-count-primes](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
