@@ -369,6 +369,7 @@ GitHub: https://github.com/sainadh-coder
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1401-circle-and-rectangle-overlapping](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1406-stone-game-iii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1563-stone-game-v/) | Hard |
@@ -808,6 +809,7 @@ GitHub: https://github.com/sainadh-coder
 | [0836-rectangle-overlap](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [0858-mirror-reflection](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0858-mirror-reflection/) | Medium |
 | [0883-projection-area-of-3d-shapes](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
+| [1401-circle-and-rectangle-overlapping](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
