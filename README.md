@@ -78,6 +78,7 @@ GitHub: https://github.com/sainadh-coder
 | [0835-image-overlap](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0835-image-overlap/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0877-stone-game](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0877-stone-game/) | Medium |
+| [0883-projection-area-of-3d-shapes](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
 | [1095-find-in-mountain-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1095-find-in-mountain-array/) | Hard |
 | [1140-stone-game-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1260-shift-2d-grid](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1260-shift-2d-grid/) | Easy |
@@ -357,6 +358,7 @@ GitHub: https://github.com/sainadh-coder
 | [0836-rectangle-overlap](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [0858-mirror-reflection](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0858-mirror-reflection/) | Medium |
 | [0877-stone-game](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0877-stone-game/) | Medium |
+| [0883-projection-area-of-3d-shapes](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
 | [1015-smallest-integer-divisible-by-k](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1140-stone-game-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -601,6 +603,7 @@ GitHub: https://github.com/sainadh-coder
 | [0074-search-a-2d-matrix](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0835-image-overlap](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0835-image-overlap/) | Medium |
+| [0883-projection-area-of-3d-shapes](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
 | [1260-shift-2d-grid](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -797,6 +800,7 @@ GitHub: https://github.com/sainadh-coder
 | [0223-rectangle-area](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0223-rectangle-area/) | Medium |
 | [0836-rectangle-overlap](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [0858-mirror-reflection](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0858-mirror-reflection/) | Medium |
+| [0883-projection-area-of-3d-shapes](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
