@@ -467,6 +467,7 @@ GitHub: https://github.com/sainadh-coder
 | [0053-maximum-subarray](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0148-sort-list](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
+| [0191-number-of-1-bits](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0191-number-of-1-bits/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0372-super-pow](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0372-super-pow/) | Medium |
@@ -552,6 +553,7 @@ GitHub: https://github.com/sainadh-coder
 | [0029-divide-two-integers](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0029-divide-two-integers/) | Medium |
 | [0067-add-binary](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [0136-single-number](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0136-single-number/) | Easy |
+| [0191-number-of-1-bits](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
