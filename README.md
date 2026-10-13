@@ -149,6 +149,7 @@ GitHub: https://github.com/sainadh-coder
 | [3691-maximum-total-subarray-value-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -530,6 +531,7 @@ GitHub: https://github.com/sainadh-coder
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sainadh-coder/leetcode-solutions/tree/main/Python3/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3951-minimum-energy-to-maintain-brightness](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3951-minimum-energy-to-maintain-brightness/) | Medium |
 ## String Matching
@@ -742,6 +744,7 @@ GitHub: https://github.com/sainadh-coder
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3689-maximum-total-subarray-value-i](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3952-maximum-total-value-of-covered-indices](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3952-maximum-total-value-of-covered-indices/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
