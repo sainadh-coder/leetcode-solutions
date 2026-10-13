@@ -51,6 +51,7 @@ GitHub: https://github.com/sainadh-coder
 | [0120-triangle](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0136-single-number/) | Easy |
+| [0149-max-points-on-a-line](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0162-find-peak-element/) | Medium |
@@ -174,6 +175,7 @@ GitHub: https://github.com/sainadh-coder
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0041-first-missing-positive](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0149-max-points-on-a-line](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0169-majority-element](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
@@ -328,6 +330,7 @@ GitHub: https://github.com/sainadh-coder
 | [0067-add-binary](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
+| [0149-max-points-on-a-line](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0171-excel-sheet-column-number](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0172-factorial-trailing-zeroes/) | Medium |
@@ -799,6 +802,7 @@ GitHub: https://github.com/sainadh-coder
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0149-max-points-on-a-line](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0223-rectangle-area](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0223-rectangle-area/) | Medium |
 | [0812-largest-triangle-area](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0812-largest-triangle-area/) | Easy |
 | [0836-rectangle-overlap](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0836-rectangle-overlap/) | Easy |
@@ -963,10 +967,12 @@ GitHub: https://github.com/sainadh-coder
 ## Euclidean Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0149-max-points-on-a-line](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0149-max-points-on-a-line/) | Hard |
 | [1998-gcd-sort-of-an-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1998-gcd-sort-of-an-array/) | Hard |
 ## Greatest Common Divisor
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0149-max-points-on-a-line](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0858-mirror-reflection](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0858-mirror-reflection/) | Medium |
 | [1998-gcd-sort-of-an-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1998-gcd-sort-of-an-array/) | Hard |
 ## Quicksort
