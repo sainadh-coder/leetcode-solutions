@@ -331,6 +331,7 @@ GitHub: https://github.com/sainadh-coder
 | [0067-add-binary](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
+| [0089-gray-code](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0089-gray-code/) | Medium |
 | [0149-max-points-on-a-line](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0171-excel-sheet-column-number](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0171-excel-sheet-column-number/) | Easy |
@@ -553,6 +554,7 @@ GitHub: https://github.com/sainadh-coder
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0029-divide-two-integers/) | Medium |
 | [0067-add-binary](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
+| [0089-gray-code](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0089-gray-code/) | Medium |
 | [0136-single-number](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0136-single-number/) | Easy |
 | [0191-number-of-1-bits](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0231-power-of-two/) | Easy |
@@ -914,6 +916,7 @@ GitHub: https://github.com/sainadh-coder
 | [0022-generate-parentheses](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0046-permutations](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0046-permutations/) | Medium |
 | [0077-combinations](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0077-combinations/) | Medium |
+| [0089-gray-code](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0089-gray-code/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Minimax
