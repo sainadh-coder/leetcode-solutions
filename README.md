@@ -51,6 +51,7 @@ GitHub: https://github.com/sainadh-coder
 | [0120-triangle](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0136-single-number/) | Easy |
+| [0137-single-number-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0137-single-number-ii/) | Medium |
 | [0149-max-points-on-a-line](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -556,6 +557,7 @@ GitHub: https://github.com/sainadh-coder
 | [0067-add-binary](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [0089-gray-code](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0089-gray-code/) | Medium |
 | [0136-single-number](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0136-single-number/) | Easy |
+| [0137-single-number-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0137-single-number-ii/) | Medium |
 | [0191-number-of-1-bits](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
