@@ -75,6 +75,7 @@ GitHub: https://github.com/sainadh-coder
 | [0636-exclusive-time-of-functions](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0636-exclusive-time-of-functions/) | Medium |
 | [0645-set-mismatch](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0645-set-mismatch/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [0812-largest-triangle-area](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0812-largest-triangle-area/) | Easy |
 | [0835-image-overlap](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0835-image-overlap/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0877-stone-game](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0877-stone-game/) | Medium |
@@ -355,6 +356,7 @@ GitHub: https://github.com/sainadh-coder
 | [0628-maximum-product-of-three-numbers](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0728-self-dividing-numbers](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0728-self-dividing-numbers/) | Easy |
+| [0812-largest-triangle-area](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0812-largest-triangle-area/) | Easy |
 | [0836-rectangle-overlap](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [0858-mirror-reflection](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0858-mirror-reflection/) | Medium |
 | [0877-stone-game](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0877-stone-game/) | Medium |
@@ -798,6 +800,7 @@ GitHub: https://github.com/sainadh-coder
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0223-rectangle-area](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0223-rectangle-area/) | Medium |
+| [0812-largest-triangle-area](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0812-largest-triangle-area/) | Easy |
 | [0836-rectangle-overlap](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [0858-mirror-reflection](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0858-mirror-reflection/) | Medium |
 | [0883-projection-area-of-3d-shapes](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
@@ -924,6 +927,7 @@ GitHub: https://github.com/sainadh-coder
 ## Polygons
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0812-largest-triangle-area](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0812-largest-triangle-area/) | Easy |
 | [3024-type-of-triangle](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3024-type-of-triangle/) | Easy |
 ## Nim Game
 | Problem Name | Difficulty |
