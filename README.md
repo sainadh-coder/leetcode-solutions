@@ -84,6 +84,7 @@ GitHub: https://github.com/sainadh-coder
 | [0883-projection-area-of-3d-shapes](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
 | [1095-find-in-mountain-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1095-find-in-mountain-array/) | Hard |
 | [1140-stone-game-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1140-stone-game-ii/) | Medium |
+| [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1239-maximum-length-of-a-concatenated-string-with-unique-characters/) | Medium |
 | [1260-shift-2d-grid](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -250,6 +251,7 @@ GitHub: https://github.com/sainadh-coder
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1239-maximum-length-of-a-concatenated-string-with-unique-characters/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -566,6 +568,7 @@ GitHub: https://github.com/sainadh-coder
 | [0371-sum-of-two-integers](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0645-set-mismatch](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0645-set-mismatch/) | Easy |
+| [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1239-maximum-length-of-a-concatenated-string-with-unique-characters/) | Medium |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
@@ -920,6 +923,7 @@ GitHub: https://github.com/sainadh-coder
 | [0077-combinations](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0077-combinations/) | Medium |
 | [0089-gray-code](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0089-gray-code/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0301-remove-invalid-parentheses/) | Hard |
+| [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1239-maximum-length-of-a-concatenated-string-with-unique-characters/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Minimax
 | Problem Name | Difficulty |
