@@ -592,6 +592,7 @@ GitHub: https://github.com/sainadh-coder
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0100-same-tree/) | Easy |
 | [0301-remove-invalid-parentheses](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
@@ -724,6 +725,7 @@ GitHub: https://github.com/sainadh-coder
 | [0094-binary-tree-inorder-traversal](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0099-recover-binary-search-tree/) | Medium |
+| [0100-same-tree](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0100-same-tree/) | Easy |
 | [0386-lexicographical-numbers](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0386-lexicographical-numbers/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
@@ -886,6 +888,7 @@ GitHub: https://github.com/sainadh-coder
 | [0094-binary-tree-inorder-traversal](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0099-recover-binary-search-tree/) | Medium |
+| [0100-same-tree](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0100-same-tree/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
@@ -896,6 +899,7 @@ GitHub: https://github.com/sainadh-coder
 | [0094-binary-tree-inorder-traversal](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0099-recover-binary-search-tree/) | Medium |
+| [0100-same-tree](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0100-same-tree/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sainadh-coder/leetcode-solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Segment Tree
