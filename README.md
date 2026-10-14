@@ -313,6 +313,7 @@ GitHub: https://github.com/sainadh-coder
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0148-sort-list](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0148-sort-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0206-reverse-linked-list/) | Easy |
@@ -423,6 +424,7 @@ GitHub: https://github.com/sainadh-coder
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0050-powx-n](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0050-powx-n/) | Medium |
 | [0060-permutation-sequence](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0060-permutation-sequence/) | Hard |
 | [0206-reverse-linked-list](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0206-reverse-linked-list/) | Easy |
