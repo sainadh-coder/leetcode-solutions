@@ -408,6 +408,7 @@ GitHub: https://github.com/sainadh-coder
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sainadh-coder/leetcode-solutions/tree/main/Python3/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
@@ -764,6 +765,7 @@ GitHub: https://github.com/sainadh-coder
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3689-maximum-total-subarray-value-i](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3952-maximum-total-value-of-covered-indices](https://github.com/sainadh-coder/leetcode-solutions/tree/main/3952-maximum-total-value-of-covered-indices/) | Medium |
 ## Counting
