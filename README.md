@@ -77,6 +77,7 @@ GitHub: https://github.com/sainadh-coder
 | [0628-maximum-product-of-three-numbers](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0636-exclusive-time-of-functions](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0636-exclusive-time-of-functions/) | Medium |
 | [0645-set-mismatch](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0645-set-mismatch/) | Easy |
+| [0739-daily-temperatures](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0812-largest-triangle-area](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0812-largest-triangle-area/) | Easy |
 | [0835-image-overlap](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0835-image-overlap/) | Medium |
@@ -856,6 +857,7 @@ GitHub: https://github.com/sainadh-coder
 | [0234-palindrome-linked-list](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0636-exclusive-time-of-functions](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0636-exclusive-time-of-functions/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0739-daily-temperatures](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0856-score-of-parentheses](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -886,6 +888,7 @@ GitHub: https://github.com/sainadh-coder
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0739-daily-temperatures](https://github.com/sainadh-coder/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sainadh-coder/leetcode-solutions/tree/main/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
